@@ -40,3 +40,9 @@ SELECT dbo.ObterNomeUsuarioPorID(1) AS NomeUsuario2;
 
 
 
+-- como exibir as informações na mesma celula  
+select 
+nome + ' ' + 
+cast(datediff(year,data_aniversario,getdate())  as varchar(50)) + ' anos',
+'Data de nascimento: ' + cast(data_aniversario as varchar(10))
+from usuarios 
