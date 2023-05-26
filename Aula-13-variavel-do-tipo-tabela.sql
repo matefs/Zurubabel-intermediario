@@ -13,4 +13,6 @@ select * from @tabela;
  
 
 
-
+-- declarar variavel sem usar o set
+DECLARE @variavel INT = 10;
+select @variavel
