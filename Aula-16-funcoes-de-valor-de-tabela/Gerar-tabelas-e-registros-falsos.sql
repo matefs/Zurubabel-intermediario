@@ -60,3 +60,6 @@ VALUES (6, 'Desenvolvedor');
 
  
  
+
+update usuarios set genero = 'M' where genero = 'Masculino'
+update usuarios set genero = 'F' where genero = 'Feminino'
