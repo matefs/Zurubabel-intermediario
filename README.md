@@ -1,3 +1,5 @@
+# Playlist de Aulas - Zurubabel
+Este repositório contém materiais relacionados às aulas da playlist "Zurubabel" disponível no YouTube.  A playlist abrange uma variedade de tópicos relacionados à SQL, com foco em SQL SERVER.  
 
 ### Sobre indices 
 (Aula 19) - Diferenças entre índices
