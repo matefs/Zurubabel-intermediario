@@ -5,3 +5,6 @@
 - Índice Clusterizado: Determina a ordem física dos dados na tabela.
 - Índice Não Clusterizado: Melhora o desempenho das consultas com uma estrutura separada.
 - Índice de Pilha (Heap): Tabela sem ordem específica, pode usar índices não clusterizados para acessar registros.
+
+O ídice utilizado pela consulta sql pode ser encontrado no plano de execução (Atalho: ctrl + L ) conforme indica a imagem abaixo: 
+![image](https://github.com/matefs/Zurubabel-intermediario/assets/30128774/31c23f61-ca8f-48cd-82c4-7e324646efe1)
