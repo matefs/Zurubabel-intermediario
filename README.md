@@ -5,7 +5,7 @@ Este repositório contém materiais relacionados às aulas da playlist "Zurubabe
 (Aula 19) - Diferenças entre índices
 
 - Índice Clusterizado: Determina a ordem física dos dados na tabela.
-- Índice Não Clusterizado: Melhora o desempenho das consultas com uma estrutura separada.
+- Índice Não Clusterizado: Melhora o desempenho das consultas com uma estrutura separada. A ordem dos registros não importa.  
 - Índice de Pilha (Heap): Tabela sem ordem específica, pode usar índices não clusterizados para acessar registros.
 
 O ídice utilizado pela consulta sql pode ser encontrado no plano de execução (Atalho: ctrl + L ) conforme indica a imagem abaixo: 
